@@ -1,5 +1,6 @@
 body{
-  background-color: #F0F0F0;
+  background: url("images/background.jpg");
+  background-repeat: no-repeat;
 }
 #container {
   color: #6F6F6F;
@@ -10,6 +11,7 @@ body{
   margin: 0 auto;
 }
 #header {
+  background-color: white;
   box-shadow: 0px 10px 30px rgb(0 0 0 / 50%);
   border-radius: 4px;
   margin: 20px 0px;
